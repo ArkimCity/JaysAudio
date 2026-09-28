@@ -40,12 +40,17 @@ before they're adopted on Crin's site.
 
 [View some sample graphs.](https://mlochbaum.github.io/CrinGraph/graph.html)
 
-Because Crinacle's frequency response measurements are not public, the
-sample response curves shown are synthesized. They are not real
-headphones and you can't listen to them. To reduce potential
-disappointment, steps have been taken to ensure that the curves are as
-uninviting as possible. Any resemblance to the exports of a large East
-Asian county is purely coincidental.
+### Bluetooth comparison set
+
+[Compare QCY N70, EarFun Air Pro 4, Nothing Ear (3a), and SOUNDPEATS H3](https://arkimcity.github.io/JaysAudio/?share=QCY_N70_ANC,Earfun_Air_Pro_4_ANC,Nothing_Ear_%283a%29,SOUNDPEATS_H3).
+The curves come from multiple public measurement sources, so read the
+[source and comparability notes](data/SOURCES.md) before drawing fine-grained
+conclusions from the overlay.
+
+The upstream sample project used synthesized curves because Crinacle's
+frequency response measurements are not public. This fork also contains real,
+attributed measurements; imported sources and cross-rig comparison limits are
+documented in [data/SOURCES.md](data/SOURCES.md).
 
 ## Features
 

@@ -604,7 +604,7 @@
 		]
 
 	},
-	
+
 	{
 
 		"name": "AKG",
@@ -1992,6 +1992,38 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "EarFun",
+
+		"phones": [
+
+			{
+
+				"name": "Air Pro 4",
+
+				"file": [
+
+					"Earfun Air Pro 4",
+
+					"Earfun Air Pro 4 ANC"
+
+				],
+
+				"suffix": [
+
+					"ANC off (Default)",
+
+					"ANC on (Default)"
 
 				]
 
@@ -7694,6 +7726,24 @@
 
 	{
 
+		"name": "Nothing",
+
+		"phones": [
+
+			{
+
+				"name": "Ear (3a)",
+
+				"file": "Nothing Ear (3a)"
+
+			}
+
+		]
+
+	},
+
+	{
+
 		"name": "Night Oblivion",
 
 		"phones": [	
@@ -8346,6 +8396,38 @@
 
 	},
 	
+	{
+
+		"name": "QCY",
+
+		"phones": [
+
+			{
+
+				"name": "N70",
+
+				"file": [
+
+					"QCY N70",
+
+					"QCY N70 ANC"
+
+				],
+
+				"suffix": [
+
+					"ANC off (Default)",
+
+					"ANC on (Default)"
+
+				]
+
+			}
+
+		]
+
+	},
+
 	{
 
 		"name": "QKZ",
@@ -10133,7 +10215,7 @@
 	},
 	{
 
-		"name": "SoundPeat",
+		"name": "SoundPEATS",
 
 		"phones": [
 
@@ -10186,6 +10268,13 @@
 					"Wide Bore"
 
 				]
+
+			},
+			{
+
+				"name": "H3",
+
+				"file": "SOUNDPEATS H3"
 
 			}
 
